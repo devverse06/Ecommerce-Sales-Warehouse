@@ -68,7 +68,7 @@ ECommerce-Sales-Warehouse/
      - `category_dimension`: Classification of products.
      - `cart_dimension`: Purchase event metadata.
 
-   - **ERD Diagram**: [ERD.png](reports/images/ERD.png) provides a visual representation of the schema relationships.
+   - **ERD Diagram**: [ERD.png](Ecommerce Sales Warehouse/reports/images/ERD.png) provides a visual representation of the schema relationships.
 
 5. **Insights Generation**:  
    Business insights are generated using SQL queries (`queries.sql`), and visualizations are created using Python in `stats.py`. The insights focus on sales performance, customer behavior, and category-specific trends.
@@ -101,5 +101,5 @@ ECommerce-Sales-Warehouse/
 
 ## **Reports and Documentation**
 
-- [**Business Insights**](reports/stats_report.md): Key findings and visualizations summarized.
+- [**Business Insights**](Ecommerce Sales Warehouse/reports/stats_report.md): Key findings and visualizations summarized.
 
